@@ -1,6 +1,6 @@
 Unity version 5.5.1f1
 GVR verion 1.50.0
-
+Made for Android 
 
 1.Unzip folder.
 2.Open folder in Unity
